@@ -1,2 +1,2 @@
 #reverseString
-Simple program to take a string and display it in reverse.
+Simple program to take a string and displays it in reverse.
